@@ -39,7 +39,7 @@ header p{
     padding-bottom: 50px;
 }
 
-header > p > a{
+header > p > a, footer > a{
    color: white;
    font-weight: bolder;
 }
@@ -64,5 +64,24 @@ section{
 section#background1{
     background: black var(--background1) center center no-repeat fixed;
     background-size: cover;
+    color: white;
+}
+
+section#background2{
+    background: black var(--background2) center center no-repeat fixed;
+    background-size: cover;
+    color: white;
+}
+
+p.section-background{
+    background-color: rgba(0, 0, 0, 0.405);
+    width: 500px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    font-family: var(--font1);
+    padding: 15px;
     color: white;
 }
