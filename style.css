@@ -65,13 +65,14 @@ section#background1{
     background: black var(--background1) center center no-repeat fixed;
     background-size: cover;
     color: white;
+    text-shadow: 1.2px 1.5px 3px black;
 }
 
 section#background2{
     background: black var(--background2) center center no-repeat fixed;
     background-size: cover;
     color: white;
-    text-shadow: 1px 1px 1px 1px;
+    text-shadow: 1.2px 1.5px 3px black;
 }
 
 p{
