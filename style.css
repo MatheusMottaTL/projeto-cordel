@@ -71,13 +71,19 @@ section#background2{
     background: black var(--background2) center center no-repeat fixed;
     background-size: cover;
     color: white;
+    text-shadow: 1px 1px 1px 1px;
+}
+
+p{
+    font-size: 4.5vw;
 }
 
 p.section-background{
-    background-color: rgba(0, 0, 0, 0.405);
-    width: 45vw;
+    background-color: rgba(0, 0, 0, 0.275);
+    width: 55vw;
     padding: 0px 0px 0px 15px;
 }
+
 
 footer{
     background-color: black;
