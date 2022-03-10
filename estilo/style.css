@@ -63,11 +63,11 @@ section{
 }
 
 section#background1{
-    background: rgba(0, 0, 0, 0.600) var(--background1) right center no-repeat fixed;
+    background: rgba(0, 0, 0, 0.600) var(--background1) center center no-repeat fixed;
 }
 
 section#background2{
-    background: rgba(0, 0, 0, 0.600) var(--background2) right center no-repeat fixed;
+    background: rgba(0, 0, 0, 0.600) var(--background2) center center no-repeat fixed;
 }
 
 section#background1, section#background2{
